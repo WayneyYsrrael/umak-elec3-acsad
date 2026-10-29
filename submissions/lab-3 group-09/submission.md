@@ -11,10 +11,10 @@ How to use this template:
 
 ## About us
 
-- Group number: <answer>
-- Section: <answer>
-- Client: <answer>
-- VPC CIDR: <answer>
+- Group number: 09
+- Section: IV-ACSAD
+- Client: A laundry shop pickup app
+- VPC CIDR: 10.9.0.0/18
 
 ## Task 1. Equal subnets
 
